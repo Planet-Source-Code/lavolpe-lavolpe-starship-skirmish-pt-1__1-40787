@@ -1,0 +1,5 @@
+frmBoard = 66, 66, 510, 509, Z, 22, 22, 466, 465, C
+modMain = 44, 44, 488, 487, 
+modGraphics = 66, 66, 510, 509, C
+frmSelection = 66, 66, 510, 509, C, 44, 44, 488, 487, C
+clsAnimator = 154, 154, 598, 597, C
